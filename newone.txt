@@ -2,3 +2,4 @@ I am new one
 i am the addded one
 iam changed on remote
 stash changes
+stash new changes
